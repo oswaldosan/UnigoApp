@@ -32,15 +32,16 @@
   }
 
   .storelogo {
-    height: 150px;
-    padding: 15px;
+    height: 185px;
+    padding: 5px;
     overflow: hidden;
     text-align: center;
     margin-bottom: 0px;
   }
 
   .storelogo img {
-    width: 90% !important;
+    width: 84% !important;
+    height: 100%;
   }
 
   .gridBtn {
@@ -92,7 +93,7 @@
       margin-right: 10px;
     }
     .storelogo {
-      margin-bottom: 25px;
+      margin-bottom: 20px;
     }
   }
 

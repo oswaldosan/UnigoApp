@@ -137,7 +137,7 @@
       </div>
     </div>
     <div class="content">
-      <h1>{item.title.rendered}</h1>
+      <h1>{item.acf.nombre_de_la_tienda}</h1>
       <p>
         {@html item.content.rendered}
       </p>
